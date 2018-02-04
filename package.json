@@ -1,0 +1,16 @@
+{
+  "name": "gitwed-data",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "gitwed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmoskal/gitwed-sample.git"
+  },
+  "private": true,
+  "dependencies": {
+    "gitwed": "^1.0.0"
+  }
+}
