@@ -1,2 +1,3 @@
-# gitwed-sample
-Sample web page data for GitWEd
+# Sample data for GitWEd
+
+Sample web site to be served with GitWEd.
