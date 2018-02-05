@@ -11,6 +11,6 @@
   },
   "private": true,
   "dependencies": {
-    "gitwed": "^1.0.0"
+    "gitwed": "^1.3.1"
   }
 }
